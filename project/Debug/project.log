@@ -1,0 +1,5 @@
+﻿  project.cpp
+C:\Users\hassa\source\repos\project\project\project.cpp(51,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hassa\source\repos\project\project\project.cpp(89,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hassa\source\repos\project\project\project.cpp(97,27): warning C4018: '<': signed/unsigned mismatch
+  project.vcxproj -> C:\Users\hassa\source\repos\project\Debug\project.exe
